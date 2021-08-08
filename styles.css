@@ -1,0 +1,129 @@
+body{
+    font-family: "Montserrat";
+}
+
+
+#title{
+    background-image: url(https://images.pexels.com/photos/1040499/pexels-photo-1040499.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+    background-position: top;
+    color: white;
+}
+
+.contanier-fluid{
+    padding: 3% 15%;
+}
+
+h1{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    line-height: 1.5;
+    letter-spacing: 0.3rem;
+
+}
+
+h2{
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+    line-height: 1.5;
+    letter-spacing: 0.1rem;
+}
+
+h3{
+    font-family: "Montserrat";
+    color: black;
+}
+h4{
+    font-family: "Ubuntu";
+    color: white;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+.navbar{
+    margin: 0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    margin-left: -10px;
+
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Ubuntu";
+}
+
+
+
+.logo{
+   text-align: right;
+}
+
+.projects{
+    margin: 6% 3% 6% 0;
+}
+
+#features{
+    padding: 7% 16%;
+}
+
+.features-box{
+    text-align: center;
+}
+
+.icons{
+    color: #1be400;
+    margin-bottom: 1rem;
+}
+
+.icons:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+    background-image: url(https://images.wallpaperscraft.com/image/man_silhouette_window_birds_118774_3840x2160.jpg);
+    text-align: center;
+    background-size: cover;
+    background-position: top;
+    color: white;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#press{
+    padding: 7% 1%;
+    text-align: center;
+    color: black;
+}
+.slider-image {
+    padding-top: 2%;
+
+}
+
+#footer{
+    text-align: center;
+    background-color: rgb(27, 27, 27);
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.footer-name{
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+    line-height: 1.5;
+    letter-spacing: 0.1rem;
+    color: whitesmoke;
+
+}
